@@ -1,0 +1,30 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+ajayidhikrullahscrumy/__init__.py
+ajayidhikrullahscrumy/admin.py
+ajayidhikrullahscrumy/apps.py
+ajayidhikrullahscrumy/models.py
+ajayidhikrullahscrumy/tests.py
+ajayidhikrullahscrumy/urls.py
+ajayidhikrullahscrumy/views.py
+ajayidhikrullahscrumy fake/__init__.py
+ajayidhikrullahscrumy fake/admin.py
+ajayidhikrullahscrumy fake/apps.py
+ajayidhikrullahscrumy fake/models.py
+ajayidhikrullahscrumy fake/tests.py
+ajayidhikrullahscrumy fake/urls.py
+ajayidhikrullahscrumy fake/views.py
+ajayidhikrullahscrumy fake/migrations/__init__.py
+ajayidhikrullahscrumy/__pycache__/__init__.cpython-36.pyc
+ajayidhikrullahscrumy/__pycache__/admin.cpython-36.pyc
+ajayidhikrullahscrumy/__pycache__/models.cpython-36.pyc
+ajayidhikrullahscrumy/__pycache__/urls.cpython-36.pyc
+ajayidhikrullahscrumy/__pycache__/views.cpython-36.pyc
+ajayidhikrullahscrumy/migrations/__init__.py
+ajayidhikrullahscrumy/migrations/__pycache__/__init__.cpython-36.pyc
+django_ajayidhikrullahscrumy.egg-info/PKG-INFO
+django_ajayidhikrullahscrumy.egg-info/SOURCES.txt
+django_ajayidhikrullahscrumy.egg-info/dependency_links.txt
+django_ajayidhikrullahscrumy.egg-info/top_level.txt
