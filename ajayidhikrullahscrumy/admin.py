@@ -1,8 +1,9 @@
 from django.contrib import admin
-from .models import scrumyGoals, scrumyHistory, goalStatus
+# from django.contrib.auth.models import User
+
+from .models import ScrumyGoals, ScrumyHistory, GoalStatus
 
 # Register your models here.
-admin.site.register(scrumyGoals)
-admin.site.register(scrumyHistory)
-admin.site.register(goalStatus)
-
+admin.site.register(ScrumyGoals)
+admin.site.register(ScrumyHistory)
+admin.site.register(GoalStatus)
