@@ -9,20 +9,23 @@ ajayidhikrullahscrumy/models.py
 ajayidhikrullahscrumy/tests.py
 ajayidhikrullahscrumy/urls.py
 ajayidhikrullahscrumy/views.py
-ajayidhikrullahscrumy fake/__init__.py
-ajayidhikrullahscrumy fake/admin.py
-ajayidhikrullahscrumy fake/apps.py
-ajayidhikrullahscrumy fake/models.py
-ajayidhikrullahscrumy fake/tests.py
-ajayidhikrullahscrumy fake/urls.py
-ajayidhikrullahscrumy fake/views.py
-ajayidhikrullahscrumy fake/migrations/__init__.py
 ajayidhikrullahscrumy/__pycache__/__init__.cpython-36.pyc
 ajayidhikrullahscrumy/__pycache__/admin.cpython-36.pyc
+ajayidhikrullahscrumy/__pycache__/apps.cpython-36.pyc
 ajayidhikrullahscrumy/__pycache__/models.cpython-36.pyc
 ajayidhikrullahscrumy/__pycache__/urls.cpython-36.pyc
 ajayidhikrullahscrumy/__pycache__/views.cpython-36.pyc
+ajayidhikrullahscrumy/migrations/0001_initial.py
+ajayidhikrullahscrumy/migrations/0002_auto_20181105_1547.py
+ajayidhikrullahscrumy/migrations/0003_auto_20181105_1555.py
+ajayidhikrullahscrumy/migrations/0004_auto_20181106_1303.py
+ajayidhikrullahscrumy/migrations/0005_auto_20181106_1356.py
 ajayidhikrullahscrumy/migrations/__init__.py
+ajayidhikrullahscrumy/migrations/__pycache__/0001_initial.cpython-36.pyc
+ajayidhikrullahscrumy/migrations/__pycache__/0002_auto_20181105_1547.cpython-36.pyc
+ajayidhikrullahscrumy/migrations/__pycache__/0003_auto_20181105_1555.cpython-36.pyc
+ajayidhikrullahscrumy/migrations/__pycache__/0004_auto_20181106_1303.cpython-36.pyc
+ajayidhikrullahscrumy/migrations/__pycache__/0005_auto_20181106_1356.cpython-36.pyc
 ajayidhikrullahscrumy/migrations/__pycache__/__init__.cpython-36.pyc
 django_ajayidhikrullahscrumy.egg-info/PKG-INFO
 django_ajayidhikrullahscrumy.egg-info/SOURCES.txt
